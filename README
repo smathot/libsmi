@@ -1,0 +1,18 @@
+ABOUT
+
+libsmi.py is a custom Python library for interfacing with the SMI eye
+tracker, using the serial port. It is designed to be used in the
+OpenSesame experiment builder. For more information, see the examples
+and the OpenSesame documentation area.
+
+LINKS
+
+- SMI <http://www.smivision.com>
+- OpenSesame <http://www.cogsci.nl/opensesame>
+- OpenSesame documentation area <http://osdoc.cogsci.nl>
+- Support forum <http://forum.cogsci.nl>
+
+CREDITS
+
+Sebastiaan Mathôt
+
